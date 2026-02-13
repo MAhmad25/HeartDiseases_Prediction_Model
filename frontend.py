@@ -102,6 +102,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 st.title("Heart Disease Prediction")
+st.markdown("How to use this tool: enter the values exactly as shown on the medical report your doctor gave you (for example age, blood pressure, cholesterol), press Predict to see an estimated risk show the result to your doctor, this tool gives an estimate only and does not replace medical advice.")
 st.markdown("Enter your health metrics below for risk assessment")
 st.markdown("---")
 
