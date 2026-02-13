@@ -1,3 +1,4 @@
+<p align="center"><img src="https://i.ibb.co/hF2QY97Y/654-1x-shots-so.png" alt="pic" border="0"></p>
 # Heart Diseases Prediction Project
 
 This project aims to develop a predictive model for heart diseases using various machine learning techniques. The focus is on data cleaning, feature engineering, model training, and deployment of a user-friendly application for real-time risk assessment.
